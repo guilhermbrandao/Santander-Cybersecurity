@@ -38,7 +38,12 @@
 
 - ![diretoriopastas](https://github.com/user-attachments/assets/d1c23605-731a-4bf4-ab2a-4da2a061a200)
 
-- Copiar os scripts e cola em uma pasta vazia para nos realizar os testes.
+#### 1.3 Criar uma pasta e arquivos para teste: 
+- A pasta criada vai ser usada para ter um diretorio para especificar pelo prompt de comando, os arquivos dentro 
+- Após criação de pastas e arquivos que seram criptocrafados
+
+
+- 
 
   
 
