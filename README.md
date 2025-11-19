@@ -47,14 +47,14 @@
 ### Parte 2: Executando o Ransomware na VM.
 
 - Ao dar dois click para abrir o ransonware todos os arquivos da pasta **test_files** é criptografados.
-- (para maior segurança foi expecificado no script o nome da pasta para ser criptografada)
+- (para maior segurança foi expecificado no script o nome da pasta para ser criptografada 'test_files'.)
 - Abaixo imagem do antes e depois de executar o ransomware:
 - **ANTES**
 - ![antes](https://github.com/user-attachments/assets/c107a3c1-8d43-4b47-84fa-301de4ce6ef2)
 - **DEPOIS**
 - ![depois](https://github.com/user-attachments/assets/68ac38b1-0f85-4acd-ab5c-a8389b5b6721)
 
-- Só é possivel descriptografar a pasta se obter a chave certa, nesse caso como é de teste nos mesmo recebemos a chave.
+- Só é possivel descriptografar a pasta se obter a chave certa, nesse caso por se tratar de um teste nos mesmo recebemos a chave.
 - Para descriptografar a pasta é so rodar o script **descriptografar.py**.
 - Depois de concluido seus arquivos volta ao normal como na imagem acima.
 
