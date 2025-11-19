@@ -55,3 +55,5 @@ def main():
 
 if __name__=="__main__":
     main()
+
+# Utilizar para fins educativos e em ambiente controlados e ou com permissão.
