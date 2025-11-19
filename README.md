@@ -47,6 +47,7 @@
 ### Parte 2: Executando o Ransomware na VM.
 
 - Ao dar dois click para abrir o ransonware todos os arquivos da pasta **test_files** é criptografados.
+- (para maior segurança foi expecificado no script o nome da pasta para ser criptografada)
 - Abaixo imagem do antes e depois de executar o ransomware:
 - **ANTES**
 - ![antes](https://github.com/user-attachments/assets/c107a3c1-8d43-4b47-84fa-301de4ce6ef2)
